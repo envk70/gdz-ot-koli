@@ -1,13 +1,22 @@
-
-<table style="width: 62.0523%;" border="2" cellpadding="17">
-<tbody>
-<tr style="height: 19.5px;">
-<td style="width: 46.316%; height: 19.5px;"><a href="17.2.jpg">17.2</a></td>
-<td style="width: 151.684%; height: 19.5px;"><a href="17.3.jpg">17.3</a></td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 46.316%; height: 21px;"><a href="17.4.jpg">17.4</a></td>
-<td style="width: 151.684%; height: 21px;"><a href="17.5.jpg">17.5</a></td>
-</tr>
-</tbody>
-</table>
+<!Doctype HTML>
+<html>
+  <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title> ГДЗ ОТ КОЛИ : ЗАДАЧИ АЛГЕБРЫ УГЛУБЛЕННЫЙ УРОВЕНЬ </title>
+  </head>
+  </body>
+     <center><a href="index.html"><img src="logo.png" width="500"></a></center>
+     <table style="width: 62.0523%;" border="2" cellpadding="17">
+     <tbody>
+     <tr style="height: 19.5px;">
+     <td style="width: 46.316%; height: 19.5px;"><a href="17.2.jpg">17.2</a></td>
+     <td style="width: 151.684%; height: 19.5px;"><a href="17.3.jpg">17.3</a></td>
+     </tr>
+     <tr style="height: 21px;">
+     <td style="width: 46.316%; height: 21px;"><a href="17.4.jpg">17.4</a></td>
+      <td style="width: 151.684%; height: 21px;"><a href="17.5.jpg">17.5</a></td>
+      </tr>
+     </tbody>
+     </table>
+</body>
+</html>
